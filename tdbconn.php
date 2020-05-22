@@ -1,6 +1,6 @@
 
 <?php
-	$link = mysqli_connect("localhost", "root", "wlsgml16942", "test");
+	$link = mysqli_connect("localhost", "root", "-", "test");
 	
 	//mysql 접속에러 메세지
 	if(mysqli_connect_errno()) {
