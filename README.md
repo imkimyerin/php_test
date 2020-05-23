@@ -2,3 +2,9 @@
 
 - 로그인
 - 예약기능
+
+## 사용언어
+- html
+- javascript
+- php
+- mysql
